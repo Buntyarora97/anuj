@@ -1,0 +1,9 @@
+.local/
+.config/
+node_modules/
+.env
+*.log
+*.db
+*.bin
+dist/
+build/
